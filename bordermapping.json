@@ -1,0 +1,465 @@
+[
+  {
+    "border_id": 1,
+    "name": "Ferry Point International Bridge",
+    "us_port_number": "011501",
+    "us_port_name": "Calais",
+    "us_crossing_name": "Ferry Point",
+    "can_port_name": "St. Stephen, NB/Calais, ME",
+    "can_crossing_name": "St. Stephen (Ferry Point Bridge)",
+    "aliases": [
+      "St. Stephen",
+      "Ferry Point",
+      "St. Stephen (Ferry Point Bridge)"
+    ],
+    "coordinates": {
+      "latitude": 45.191667,
+      "longitude": -67.283389
+    }
+  },
+  {
+    "border_id": 2,
+    "name": "Milltown International Bridge",
+    "us_port_number": "011502",
+    "us_port_name": "Calais",
+    "us_crossing_name": "Milltown",
+    "can_port_name": "",
+    "can_crossing_name": "",
+    "aliases": [
+      "Milltown"
+    ],
+    "coordinates": {
+      "latitude": 45.169967,
+      "longitude": -67.296775
+    }
+  },
+  {
+    "border_id": 3,
+    "name": "Interational Avenue Bridge",
+    "us_port_number": "011503",
+    "us_port_name": "Calais",
+    "us_crossing_name": "International Avenue",
+    "can_port_name": "St. Stephen, NB/Calais, ME",
+    "can_crossing_name": "St. Stephen 3rd Bridge",
+    "aliases": [
+      "St. Stephen 3rd Bridge",
+      "International Avenue"
+    ],
+    "coordinates": {
+      "latitude": 45.161044,
+      "longitude": -67.302719
+    }
+  },
+  {
+    "border_id": 4,
+    "name": "Houlton-Woodstock",
+    "us_port_number": "010601",
+    "us_port_name": "Houlton",
+    "us_crossing_name": "",
+    "can_port_name": "Belleville, NB/Houlton, ME",
+    "can_crossing_name": "Woodstock Road",
+    "aliases": [
+      "Woodstock Road"
+    ],
+    "coordinates": {
+      "latitude": 46.135206,
+      "longitude": -67.781322
+    }
+  },
+  {
+    "border_id": 5,
+    "name": "Madawaska-Edmundston",
+    "us_port_number": "L01901",
+    "us_port_name": "Madawaska",
+    "us_crossing_name": "",
+    "can_port_name": "Edmundston, NB/Madawaska, ME",
+    "can_crossing_name": "Edmundston",
+    "aliases": [
+      "Edmundston"
+    ],
+    "coordinates": {
+      "latitude": 47.360139,
+      "longitude": -68.328694
+    }
+  },
+  {
+    "border_id": 8,
+    "name": "Derby Line-Rock Island",
+    "us_port_number": "020901",
+    "us_port_name": "Derby Line",
+    "us_crossing_name": "Derby Line I-91",
+    "can_port_name": "Stanstead, QC/Derby Line, VT",
+    "can_crossing_name": "Stanstead (55)",
+    "aliases": [
+      "Stanstead"
+    ],
+    "coordinates": {
+      "latitude": 45.005864,
+      "longitude": -72.088183
+    }
+  },
+  {
+    "border_id": 9,
+    "name": "Highgate Springs - St. Armand/Philipsburg Border Crossing",
+    "us_port_number": "021201",
+    "us_port_name": "Highgate Springs",
+    "us_crossing_name": "",
+    "can_port_name": "Saint-Armand, QC/Highgate, VT",
+    "can_crossing_name": "St-Armand/Philipsburg",
+    "aliases": [
+      "St-Armand/Philipsburg",
+      "St. Armand, QC",
+      "St. Armand"
+    ],
+    "coordinates": {
+      "latitude": 45.015431,
+      "longitude": -73.084769
+    }
+  },
+  {
+    "border_id": 11,
+    "name": "Champlain-St Bernard de Lacolle",
+    "us_port_number": "071201",
+    "us_port_name": "Champlain",
+    "us_crossing_name": "",
+    "can_port_name": "Saint-Bernard-de-Lacolle, QC/Champlain, NY",
+    "can_crossing_name": "St-Bernard-de-Lacolle",
+    "aliases": [
+      "St-Bernard-de-Lacolle"
+    ],
+    "coordinates": {
+      "latitude": 45.008842,
+      "longitude": -73.452294
+    }
+  },
+  {
+    "border_id": 13,
+    "name": "Three Nations Crossing/Seaway International Bridge",
+    "us_port_number": "070401",
+    "us_port_name": "Massena",
+    "us_crossing_name": "",
+    "can_port_name": "Cornwall, ON/Massena, NY",
+    "can_crossing_name": "Cornwall Traffic Office",
+    "aliases": [
+      "Cornwall"
+    ],
+    "coordinates": {
+      "latitude": 44.990658,
+      "longitude": -74.73955
+    }
+  },
+  {
+    "border_id": 14,
+    "name": "Ogdensburg-Prescott International Bridge/Seaway Skyway",
+    "us_port_number": "070101",
+    "us_port_name": "Ogdensburg",
+    "us_crossing_name": "",
+    "can_port_name": "Prescott, ON/Ogdensburg, NY",
+    "can_crossing_name": "Prescott",
+    "aliases": [
+      "Prescott"
+    ],
+    "coordinates": {
+      "latitude": 44.733147,
+      "longitude": -75.457744
+    }
+  },
+  {
+    "border_id": 15,
+    "name": "Thousand Islands Bridge",
+    "us_port_number": "070801",
+    "us_port_name": "Alexandria Bay",
+    "us_crossing_name": "Thousand Islands Bridge",
+    "can_port_name": "Lansdowne, ON/Alexandria Bay, NY",
+    "can_crossing_name": "Lansdowne (Thousand Islands Bridge)",
+    "aliases": [
+      "Thousand Islands Bridge",
+      "Gananoque, ON",
+      "Gananoque"
+    ],
+    "coordinates": {
+      "latitude": 44.347272,
+      "longitude": -75.983428
+    }
+  },
+  {
+    "border_id": 16,
+    "name": "Peace Bridge",
+    "us_port_number": "090101",
+    "us_port_name": "Buffalo/Niagara Falls",
+    "us_crossing_name": "Peace Bridge",
+    "can_port_name": "Fort Erie, ON/Buffalo, NY",
+    "can_crossing_name": "Fort Erie (Peace Bridge)",
+    "aliases": [
+      "Peace Bridge"
+    ],
+    "coordinates": {
+      "latitude": 42.906961,
+      "longitude": -78.905958
+    }
+  },
+  {
+    "border_id": 17,
+    "name": "Queenston Lewiston Bridge",
+    "us_port_number": "090104",
+    "us_port_name": "Buffalo/Niagara Falls",
+    "us_crossing_name": "Lewiston Bridge",
+    "can_port_name": "Niagara-on-the-Lake, ON/Lewiston, NY",
+    "can_crossing_name": "Queenston Lewiston Bridge",
+    "aliases": [
+      "Queenston-Lewiston Bridge",
+      "Queenston, ON",
+      "Queenston"
+    ],
+    "coordinates": {
+      "latitude": 43.152992,
+      "longitude": -79.044478
+    }
+  },
+  {
+    "border_id": 19,
+    "name": "Rainbow Bridge",
+    "us_port_number": "090102",
+    "us_port_name": "Buffalo/Niagara Falls",
+    "us_crossing_name": "Rainbow Bridge",
+    "can_port_name": "Niagara Falls, ON/Niagara Falls, NY",
+    "can_crossing_name": "Niagara Falls Rainbow Bridge",
+    "aliases": [
+      "Rainbow Bridge"
+    ],
+    "coordinates": {
+      "latitude": 43.090172,
+      "longitude": -79.067692
+    }
+  },
+  {
+    "border_id": 20,
+    "name": "Blue Water Bridge",
+    "us_port_number": "380201",
+    "us_port_name": "Port Huron",
+    "us_crossing_name": "Bluewater Bridge",
+    "can_port_name": "Point Edward, ON/Port Huron, MI",
+    "can_crossing_name": "Sarnia (Blue Water Bridge)",
+    "aliases": [
+      "Blue Water Bridge",
+      "Bluewater Bridge",
+      "Sarnia, ON",
+      "Sarnia"
+    ],
+    "coordinates": {
+      "latitude": 42.998694,
+      "longitude": -82.423456
+    }
+  },
+  {
+    "border_id": 21,
+    "name": "Detroit Windsor Tunnel",
+    "us_port_number": "380002",
+    "us_port_name": "Detroit",
+    "us_crossing_name": "Windsor Tunnel",
+    "can_port_name": "Windsor, ON/Detroit, MI",
+    "can_crossing_name": "Windsor-Detroit Tunnel",
+    "aliases": [
+      "Windsor and Detroit Tunnel",
+      "Windsor Tunnel",
+      "Windsor-Detroit Tunnel"
+    ],
+    "coordinates": {
+      "latitude": 42.323878,
+      "longitude": -83.040289
+    }
+  },
+  {
+    "border_id": 22,
+    "name": "Ambassador Bridge",
+    "us_port_number": "380001",
+    "us_port_name": "Detroit",
+    "us_crossing_name": "Ambassador Bridge",
+    "can_port_name": "Windsor, ON/Detroit, MI",
+    "can_crossing_name": "Ambassador Bridge",
+    "aliases": [
+      "Ambassador Bridge"
+    ],
+    "coordinates": {
+      "latitude": 42.311797,
+      "longitude": -83.073997
+    }
+  },
+  {
+    "border_id": 23,
+    "name": "Gordie Howe International Bridge",
+    "us_port_number": "380102",
+    "us_port_name": "Detroit",
+    "us_crossing_name": "Gordie Howe International Bridge",
+    "can_port_name": "Windsor, ON/Detroit, MI",
+    "can_crossing_name": "Gordie Howe International Bridge",
+    "aliases": [
+      "Gordie Howe International Bridge"
+    ],
+    "coordinates": {
+      "latitude": 42.2875,
+      "longitude": -83.097778
+    }
+  },
+  {
+    "border_id": 24,
+    "name": "Sault Ste. Marie International Bridge",
+    "us_port_number": "380301",
+    "us_port_name": "Sault Ste. Marie",
+    "us_crossing_name": "International Bridge - SSM",
+    "can_port_name": "Sault Ste. Marie, ON/Sault Ste. Marie, MI",
+    "can_crossing_name": "Sault Ste. Marie Bridge",
+    "aliases": [
+      "Sault Ste. Marie"
+    ],
+    "coordinates": {
+      "latitude": 46.5084,
+      "longitude": -84.360717
+    }
+  },
+  {
+    "border_id": 25,
+    "name": "Fort Frances-International Falls Bridge",
+    "us_port_number": "360401",
+    "us_port_name": "International Falls",
+    "us_crossing_name": "",
+    "can_port_name": "Fort Frances, ON/International Falls, MN",
+    "can_crossing_name": "Fort Frances Bridge",
+    "aliases": [
+      "Fort Frances Bridge"
+    ],
+    "coordinates": {
+      "latitude": 48.607414,
+      "longitude": -93.401783
+    }
+  },
+  {
+    "border_id": 26,
+    "name": "Pembina-Emerson",
+    "us_port_number": "340101",
+    "us_port_name": "Pembina",
+    "us_crossing_name": "",
+    "can_port_name": "Emerson, MB/Pembina, ND",
+    "can_crossing_name": "Emerson",
+    "aliases": [
+      "Emerson"
+    ],
+    "coordinates": {
+      "latitude": 49.0005,
+      "longitude": -97.2377
+    }
+  },
+  {
+    "border_id": 27,
+    "name": "Portal-North Portal",
+    "us_port_number": "",
+    "us_port_name": "",
+    "us_crossing_name": "",
+    "can_port_name": "North Portal, SK/Portal, ND",
+    "can_crossing_name": "North Portal",
+    "aliases": [
+      "North Portal"
+    ],
+    "coordinates": {
+      "latitude": 48.9989,
+      "longitude": -102.5528
+    }
+  },
+  {
+    "border_id": 28,
+    "name": "Sweetgrass-Coutts",
+    "us_port_number": "331001",
+    "us_port_name": "Sweetgrass",
+    "us_crossing_name": "",
+    "can_port_name": "Coutts, AB/Sweetgrass, MT",
+    "can_crossing_name": "Coutts",
+    "aliases": [
+      "Coutts"
+    ],
+    "coordinates": {
+      "latitude": 48.9984,
+      "longitude": -111.9604
+    }
+  },
+  {
+    "border_id": 29,
+    "name": "Sumas-Huntingdon",
+    "us_port_number": "300901",
+    "us_port_name": "Sumas",
+    "us_crossing_name": "",
+    "can_port_name": "Huntingdon, BC/Sumas, WA",
+    "can_crossing_name": "Abbotsford-Huntingdon",
+    "aliases": [
+      "Abbotsford-Huntingdon"
+    ],
+    "coordinates": {
+      "latitude": 49.002403,
+      "longitude": -122.265347
+    }
+  },
+  {
+    "border_id": 30,
+    "name": "Lynden-Aldergrove",
+    "us_port_number": "302301",
+    "us_port_name": "Lynden",
+    "us_crossing_name": "",
+    "can_port_name": "Aldergrove, BC/Lynden, WA",
+    "can_crossing_name": "Aldergrove",
+    "aliases": [
+      "Aldergrove"
+    ],
+    "coordinates": {
+      "latitude": 49.002261,
+      "longitude": -122.485103
+    }
+  },
+  {
+    "border_id": 31,
+    "name": "Pacific Highway",
+    "us_port_number": "300401",
+    "us_port_name": "Blaine",
+    "us_crossing_name": "Pacific Highway",
+    "can_port_name": "Surrey, BC/Blaine, WA",
+    "can_crossing_name": "Pacific Highway",
+    "aliases": [
+      "Pacific Highway"
+    ],
+    "coordinates": {
+      "latitude": 49.00215,
+      "longitude": -122.735439
+    }
+  },
+  {
+    "border_id": 32,
+    "name": "Peace Arch",
+    "us_port_number": "300402",
+    "us_port_name": "Blaine",
+    "us_crossing_name": "Peace Arch",
+    "can_port_name": "Surrey, BC/Blaine, WA",
+    "can_crossing_name": "Douglas (Peace Arch)",
+    "aliases": [
+      "Douglas (Peace Arch)",
+      "Peace Arch"
+    ],
+    "coordinates": {
+      "latitude": 49.002069,
+      "longitude": -122.756525
+    }
+  },
+  {
+    "border_id": 33,
+    "name": "Point Roberts-Boundary Bay",
+    "us_port_number": "300403",
+    "us_port_name": "Blaine",
+    "us_crossing_name": "Point Roberts",
+    "can_port_name": "Delta, BC/Point Roberts, WA",
+    "can_crossing_name": "Boundary Bay",
+    "aliases": [
+      "Boundary Bay"
+    ],
+    "coordinates": {
+      "latitude": 49.001992,
+      "longitude": -123.068239
+    }
+  }
+]
